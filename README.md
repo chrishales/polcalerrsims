@@ -23,5 +23,5 @@ In most cases it should be sufficient to cite the journal details available thro
 
 If you would like to additionally, or perhaps only, cite the code in this repository, please cite [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.801336.svg)](https://doi.org/10.5281/zenodo.801336) as follows (note the [AAS guidelines for citing software](http://journals.aas.org/policy/software.html)):
 ```
-Hales, C. A. 2017, Polarization calibration error simulations, v1.0, doi:10.5281/zenodo.801336, as developed on GitHub
+Hales, C. A.\ 2017, Polarization calibration error simulations, v1.0, doi:10.5281/zenodo.801336, as developed on GitHub
 ```
