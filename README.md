@@ -7,7 +7,6 @@ Developed with: Python 2.7
 The code in this repository was used to generate figures presented in the following publications:
 arxiv link coming soon
 [EVLA Memo Series](http://library.nrao.edu/evla.shtml) [201](http://library.nrao.edu/public/memos/evla/EVLAM_201.pdf)
-
 [ALMA Memo Series](http://library.nrao.edu/alma.shtml) [603](http://library.nrao.edu/public/memos/alma/memo603.pdf)
 
 Please see in particular the arXiv link above for full details.
