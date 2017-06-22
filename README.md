@@ -1,7 +1,7 @@
 Polarization calibration error simulations
 =======
 
-Version: 1.0 ([download all files here](https://github.com/chrishales/pieflag/releases/v1.0))<br>
+Version: 1.0 ([download here](https://github.com/chrishales/pieflag/releases/v1.0))<br>
 Developed with: Python 2.7
 
 The code in this repository was used to generate figures presented in the following publications:<br>
