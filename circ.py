@@ -1,12 +1,12 @@
 # Christopher A. Hales
-# 30 May 2017
+# 22 June 2017
 # Version 1.0
 #
 #
 # This code is released under a BSD 3-Clause License
 # See LICENSE for details
 #
-# This code was used to obtain the results shown in <FIXME add arxiv link>
+# This code was used to obtain the results shown in arXiv:1706.06612
 # and EVLA Memo 201 / ALMA Memo 603.
 #
 #
