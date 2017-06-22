@@ -5,7 +5,7 @@ Version: 1.0<br>
 Developed with: Python 2.7
 
 The code in this repository was used to generate figures presented in the following publications:<br>
-arxiv link coming soon<br>
+[arXiv:1706.06612](https://arxiv.org/abs/1706.06612) (published in The Astronomical Journal, see link for details)<br>
 [EVLA Memo Series](http://library.nrao.edu/evla.shtml) [201](http://library.nrao.edu/public/memos/evla/EVLAM_201.pdf)<br>
 [ALMA Memo Series](http://library.nrao.edu/alma.shtml) [603](http://library.nrao.edu/public/memos/alma/memo603.pdf)<br>
 
